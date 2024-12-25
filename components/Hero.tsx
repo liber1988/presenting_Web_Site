@@ -41,13 +41,13 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Reuven! I have a strong passion for coding and love creating
-            innovative solutions. With a background in Machine Learning and
-            experience as a Frontend Developer, I enjoy combining data-driven
-            insights with engaging, user-friendly designs. I'm currently seeking
-            an opportunity to contribute my skills to a dynamic team where I can
-            grow, learn, and make a meaningful impact. Let's build something
-            amazing together!.
+            Hi, I am Reuven! I have a strong passion for coding and love
+            creating innovative solutions. With a background in Machine Learning
+            and experience as a Frontend Developer, I enjoy combining
+            data-driven insights with engaging, user-friendly designs. I am
+            currently seeking an opportunity to contribute my skills to a
+            dynamic team where I can grow, learn, and make a meaningful impact.
+            Let &apos s build something amazing together!.
           </p>
 
           <a href="#about">
