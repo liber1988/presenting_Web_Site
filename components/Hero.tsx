@@ -20,7 +20,7 @@ const Hero = () => {
       </div>
 
       <div
-        className="h-screen w-full dark:bg-black-100 bg-white dark:bg-grid-white/[0.03] bg-grid-black-100/[0.2]
+        className="h-screen w-full dark:bg-black-100 bg-white dark:bg-grid-white/[0.1] bg-grid-black-100/[0.2]
        absolute top-0 left-0 flex items-center justify-center"
       >
         <div
@@ -41,18 +41,18 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I am Reuven! I have a strong passion for coding and love
+            Hi, I&apos;m Reuven! I have a strong passion for coding and love
             creating innovative solutions. With a background in Machine Learning
             and experience as a Frontend Developer, I enjoy combining
             data-driven insights with engaging, user-friendly designs. I am
             currently seeking an opportunity to contribute my skills to a
             dynamic team where I can grow, learn, and make a meaningful impact.
-            Let &apos s build something amazing together!.
+            Let &apos; s build something amazing together!.
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="Show my Projects"
               icon={<FaLocationArrow />}
               position="right"
             />
