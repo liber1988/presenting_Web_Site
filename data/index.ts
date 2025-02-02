@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building my new project",
     description: "",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,68 +72,68 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Chess game",
+    des: "Chess game on pure Javascript",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://chesslibermanreuven.netlify.app",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "KiddoFun",
+    des: "KiddoFun is a full-stack website designed to provide a comprehensive, entertaining, and educational experience for children while offering valuable resources for parents. The website is divided into two main sections: Kids and Parents, each catering to the specific needs and interests of its target audience.",
+    img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://kiddofun.netlify.app",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Minecraft",
+    des: "Minecraft is a sandbox game where players explore, build, and survive in a blocky, open world with endless creativity and adventure.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://lucent-meringue-497066.netlify.app",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Trader Dashboard",
+    des: "Trader Diary Dashboard is a React application designed to help traders manage their deals, portfolios, and keep track of important economic events and news.",
+    img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://cerulean-malabi-933a0d.netlify.app",
   },
 ];
 
 export const testimonials = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "https://www.linkedin.com/in/evgeny-chernov-89b51915b/",
+    name: "Evgeniy Chernov",
+    title: "Hp Senior Developer",
+    profile:
+      "https://media.licdn.com/dms/image/v2/C4D03AQHrFNcAxp9G3w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1520434766632?e=1744243200&v=beta&t=xznql1mRwoTgZrZhGdQ-H3vs0iVJMQ46VSuWoM8zGS0",
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "https://www.linkedin.com/in/dania-hih/",
+    name: "Dania HihDania ",
+    title:
+      "Computer engineer || Frontend developer || full stack developer || UX || UI",
+    profile:
+      "https://media.licdn.com/dms/image/v2/D4D03AQE7EKedkCaInA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723730609744?e=1744243200&v=beta&t=oqyImCiGRQszBPK-923gc-CClGCwqDePTSrBP-T9nPQ",
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "https://www.linkedin.com/in/elad-harel-06ab61183",
+    name: "Elad Harel",
+    title: "Full stack Developer and Instructor | Team leader",
+    profile:
+      "https://media.licdn.com/dms/image/v2/D4D03AQE21fBe6Eu72A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1677491140419?e=1744243200&v=beta&t=fBG-2M4jCNyoAl2gHIk6muVU2J-QRDkYRMr5ei77Oc4",
   },
+
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "https://www.linkedin.com/in/ori-baram/",
+    name: "Ori Baram",
+    title: "Full stack Senior Instructor",
+    profile:
+      "https://media.licdn.com/dms/image/v2/D4D03AQHXa_RBCw7HRg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1671692696980?e=1744243200&v=beta&t=yJZ3OGA8SrNhopc0x73ltkFGtu-m0G8ZDifbyPRHk8w",
   },
 ];
 
