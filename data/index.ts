@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Landing Pages",
     des: "A lot of landing pages for different projects, each with its own unique design and functionality.",
-    img: "/p1.svg",
+    img: "/dentistclinic.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://dentistcliniclandingpage.netlify.app",
   },
