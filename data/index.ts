@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Minecraft",
-    des: "Minecraft is a sandbox game where players explore, build, and survive in a blocky, open world with endless creativity and adventure.",
+    title: "Landing page with payments",
+    des: "A modern landing page with integrated payment functionality, designed to convert visitors into customers.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://lucent-meringue-497066.netlify.app",
+    link: "https://libermanlandingpageex1.netlify.app/#home",
   },
   {
     id: 4,
