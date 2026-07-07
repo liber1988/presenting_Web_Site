@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Chess game",
-    des: "Chess game on pure Javascript",
+    title: "Landing Pages",
+    des: "A lot of landing pages for different projects, each with its own unique design and functionality.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://chesslibermanreuven.netlify.app",
+    link: "https://dentistcliniclandingpage.netlify.app",
   },
   {
     id: 2,
