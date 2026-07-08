@@ -32,7 +32,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-            Starting My Journey as a Frontend Developer
+            Building Fast, Scalable Web Applications
           </p>
 
           <TextGenerateEffect
@@ -41,13 +41,13 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Reuven! I have a strong passion for coding and love
-            creating innovative solutions. With a background in Machine Learning
-            and experience as a Frontend Developer, I enjoy combining
-            data-driven insights with engaging, user-friendly designs. I am
-            currently seeking an opportunity to contribute my skills to a
-            dynamic team where I can grow, learn, and make a meaningful impact.
-            Let &apos; s build something amazing together!.
+            Hi, I&apos;m <span className="font-semibold">Reuven</span>, a
+            Frontend Developer with experience in Machine Learning and Backend
+            Development. I create modern, responsive websites and web
+            applications that combine clean design with solid engineering.
+            Whether it&apos;s a landing page, an online store, or a complete
+            full-stack solution, I build products that are fast, scalable, and
+            designed to deliver results.
           </p>
 
           <a href="#projects">
