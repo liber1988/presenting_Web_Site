@@ -88,8 +88,8 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Landing page with payments",
-    des: "A modern landing page with integrated payment functionality, designed to convert visitors into customers.",
+    title: "Landing pages for SASS products",
+    des: "A modern landing pages with integrated payment functionality, designed to convert visitors into customers.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://libermanlandingpageex1.netlify.app/#home",
